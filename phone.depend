@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1492751422 source:c:\users\nestored\documents\gcc\phone\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+
